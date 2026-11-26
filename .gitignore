@@ -1,0 +1,6 @@
+# SAMER corpus files are not redistributed; obtain them from the official release
+data/
+*.tsv
+results/
+__pycache__/
+.ipynb_checkpoints/
